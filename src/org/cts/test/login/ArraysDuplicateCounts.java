@@ -24,5 +24,6 @@ public class ArraysDuplicateCounts {
 	}
 	}}
 	System.out.println(count);
+	System.out.println("program end");
 	}
 }
